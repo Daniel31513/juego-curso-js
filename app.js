@@ -8,7 +8,7 @@ este cofigo realiza la comparacion
 */
 
 if (numeroUsuario == numeroSecreto){
-    alert ('Acertaste el numero')
+    alert (`Acertaste el numero, el numero es: ${numeroUsuario}`);
 }
 else{
     alert ('no acertaste el numero')
